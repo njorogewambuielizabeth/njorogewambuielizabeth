@@ -1,19 +1,9 @@
-### Hi there 👋
+
 
 <!--
 **njorogewambuielizabeth/njorogewambuielizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <a target="blank" href="https://profile-counter.glitch.me/Elizabeth-Njoroge/count.svg"><p align="center">View Count<br><br> <img src="https://profile-counter.glitch.me/Elizabeth-Njoroge/count.svg" /></a>
 <h3 align="center">
 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="50px">
@@ -36,6 +26,6 @@ Welcome to Elizabeth Njoroge's profile!
 <table>
 <tr>
 <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=njorogewambuielizabeth&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
-<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njorogewamnuielizabeth&langs_count=8&layout=compact&theme=tokyonight&hide=html,css,ejs,php,C,vue,hack,typescript,jupyter%20notebook,python,shell,c%2B%2B"/></td>
+<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njorogewambuielizabeth&langs_count=8&layout=compact&theme=tokyonight&hide=html,css,ejs,php,C,vue,hack,typescript,jupyter%20notebook,python,shell,c%2B%2B"/></td>
 </tr>
 </table>
