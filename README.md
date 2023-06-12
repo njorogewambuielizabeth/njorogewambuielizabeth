@@ -31,8 +31,8 @@ Welcome to Elizabeth Njoroge's profile!
 </table>
 
 
-# <span color="color:blue">Projects</span>
-# :rocket: Project Title
+
+# :rocket: Projects
 
 - [Project 1](https://github.com/njorogewambuielizabeth/memory_game.git): It is a simple game where one has to overturn all the numbers to complete the matching game.
 - [Project 2](https://github.com/njorogewambuielizabeth/my_Quiz_game.git): A mind challenging game to know f you understand your environment.
