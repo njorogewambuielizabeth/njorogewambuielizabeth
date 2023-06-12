@@ -32,6 +32,8 @@ Welcome to Elizabeth Njoroge's profile!
 
 
 # <span color="color:blue">Projects</span>
+# :rocket: Project Title
+
 - [Project 1](https://github.com/njorogewambuielizabeth/memory_game.git): It is a simple game where one has to overturn all the numbers to complete the matching game.
 - [Project 2](https://github.com/njorogewambuielizabeth/my_Quiz_game.git): A mind challenging game to know f you understand your environment.
 - [Project_3](https://github.com/njorogewambuielizabeth/my-food-website.git): A food website which dispaying options that are available in a hotel and means of getting them. 
