@@ -39,6 +39,7 @@ Welcome to Elizabeth Njoroge's profile!
 - [Project_3](https://github.com/njorogewambuielizabeth/my-food-website.git): A food website which dispaying options that are available in a hotel and means of getting them. 
 
 # <span color="color:blue">Skills</span>
-- :bulb: - Represents innovative thinking, problem-solving skills, or creativity.
-- Skill 2
-- Skill 3
+- :bulb: -Problem-solving skills and creativity.
+- :microscope: - Research skills.
+- :writing_hand: -Writing  and communication skills.
+- :art: -Design, UI/UX, graphic design skills.
